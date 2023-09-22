@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Connors\\.nuget\\packages\\": {}
+    "C:\\Users\\andre\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Connors\\Documents\\proyectos-aiep\\trabajo-n3\\Trabajo numero 3.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\proyectos\\trabajo-n3\\Trabajo numero 3.csproj",
       "projectName": "Trabajo numero 3",
-      "projectPath": "C:\\Users\\Connors\\Documents\\proyectos-aiep\\trabajo-n3\\Trabajo numero 3.csproj",
-      "packagesPath": "C:\\Users\\Connors\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Connors\\Documents\\proyectos-aiep\\trabajo-n3\\obj\\",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\proyectos\\trabajo-n3\\Trabajo numero 3.csproj",
+      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\proyectos\\trabajo-n3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Connors\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
