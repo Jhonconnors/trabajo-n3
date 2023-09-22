@@ -1,0 +1,51 @@
+# Carpeta bin y obj generadas por compilación
+bin/
+obj/
+
+# Carpeta .vs (configuraciones del IDE)
+.vs/
+
+# Archivo de configuración de usuario
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Carpetas de caché
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de caché
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+
+# Carpetas de caché de prueba
+TestResults/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Carpeta de datos de NuGet
+packages/
+
+# Carpeta de caché del repositorio de NuGet
+*.paket/paket.exe
+.paket/*.exe
+.paket/paket.bootstrapper.exe
+.paket/restore.log
+
+# Carpeta del cliente TSLint
+tslint/
+
+# Carpeta del cliente ESLint
+eslint/
+
+# Carpeta del cliente stylelint
+stylelint/
