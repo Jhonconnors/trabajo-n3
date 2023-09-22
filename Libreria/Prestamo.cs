@@ -66,8 +66,8 @@ namespace Trabajo_numero_3.Libreria
         {
             StringBuilder objSB = new StringBuilder();
             objSB.AppendFormat("RESULTADOS \n \n");
-            objSB.AppendFormat("Valor Futuro    : {0} \n", _valorFuturo);
-            objSB.AppendFormat("Valor Presente  : {0} \n", _valorPresente);
+            objSB.AppendFormat("Valor Futuro    : {0} pesos \n", _valorFuturo);
+            objSB.AppendFormat("Valor Presente  : {0} pesos \n", _valorPresente);
             objSB.AppendFormat("Tasa de Interes : {0} % \n \n", _tasaInteres*100);
             objSB.AppendFormat("Periodo Tiempo  : {0} \n", obtenerPeriodoTiempo());
             return objSB.ToString();
