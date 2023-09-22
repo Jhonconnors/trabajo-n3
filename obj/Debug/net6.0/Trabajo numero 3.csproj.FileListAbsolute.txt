@@ -1,0 +1,15 @@
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\bin\Debug\net6.0\Trabajo numero 3.exe
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\bin\Debug\net6.0\Trabajo numero 3.deps.json
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\bin\Debug\net6.0\Trabajo numero 3.runtimeconfig.json
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\bin\Debug\net6.0\Trabajo numero 3.dll
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\bin\Debug\net6.0\Trabajo numero 3.pdb
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\obj\Debug\net6.0\Trabajo numero 3.csproj.AssemblyReference.cache
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\obj\Debug\net6.0\Trabajo numero 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\obj\Debug\net6.0\Trabajo numero 3.AssemblyInfoInputs.cache
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\obj\Debug\net6.0\Trabajo numero 3.AssemblyInfo.cs
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\obj\Debug\net6.0\Trabajo numero 3.csproj.CoreCompileInputs.cache
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\obj\Debug\net6.0\Trabajo numero 3.dll
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\obj\Debug\net6.0\refint\Trabajo numero 3.dll
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\obj\Debug\net6.0\Trabajo numero 3.pdb
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\obj\Debug\net6.0\Trabajo numero 3.genruntimeconfig.cache
+C:\Users\Connors\Documents\proyectos-aiep\trabajo-n3\obj\Debug\net6.0\ref\Trabajo numero 3.dll
