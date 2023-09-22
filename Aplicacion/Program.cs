@@ -7,7 +7,7 @@ internal class Program
         Prestamo obj1 = new Prestamo();
         obj1.valorFuturo = 1564474;
         obj1.valorPresente = 1000000;
-        obj1.tasaInteres = 3.8F;
+        obj1.tasaInteres = 0.038F;
 
         mostrarResultado(obj1);
         Pausa();

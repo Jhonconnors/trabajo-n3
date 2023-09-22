@@ -50,12 +50,14 @@ namespace Trabajo_numero_3.Libreria
         {
             try
             {
-                int resultado = (int)Math.Floor(
-                    Math.Log10(1564474 / 1000000) / Math.Log10(1 + 3.8F));
-                Console.WriteLine(resultado);
-                return resultado;
+                double vf = _valorFuturo;
+                double vp = _valorPresente;
+                double i = _tasaInteres;
+                double result = Math.Log10(vf / vp) / Math.Log10(1 + i);
+                return (int)result;
+
             }
-            catch (Exception ex)
+            catch (Exception e)
             {
                 return -1;
             }
@@ -66,7 +68,7 @@ namespace Trabajo_numero_3.Libreria
             objSB.AppendFormat("RESULTADOS \n \n");
             objSB.AppendFormat("Valor Futuro    : {0} \n", _valorFuturo);
             objSB.AppendFormat("Valor Presente  : {0} \n", _valorPresente);
-            objSB.AppendFormat("Tasa de Interes : {0} % \n \n", _tasaInteres);
+            objSB.AppendFormat("Tasa de Interes : {0} % \n \n", _tasaInteres*100);
             objSB.AppendFormat("Periodo Tiempo  : {0} \n", obtenerPeriodoTiempo());
             return objSB.ToString();
         }
